@@ -56,4 +56,4 @@ cc_china_seq = SeqIO.read("./COVID_CHINA.fasta", "fasta")
 cc_japan_seq = SeqIO.read("./COVID_JAPAN.fasta", "fasta")
 flu_denmark_seq = SeqIO.read("./INFLUENZA_A_VIRUS.fasta", "fasta")
 
-get_similarity(cc_china_seq, flu_denmark_seq)
+get_similarity(cc_china_seq, cc_japan_seq)
