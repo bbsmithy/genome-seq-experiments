@@ -10,5 +10,5 @@
 
 ### Videos
 
-[What is Genomic Sequencing](https://youtu.be/2JUu1WqidC4)
-[Human Genome](https://youtu.be/jEJp7B6u_dY)
+- [What is Genomic Sequencing](https://youtu.be/2JUu1WqidC4)
+- [Human Genome](https://youtu.be/jEJp7B6u_dY)
