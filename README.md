@@ -12,3 +12,4 @@
 
 - [What is Genomic Sequencing](https://youtu.be/2JUu1WqidC4)
 - [Human Genome](https://youtu.be/jEJp7B6u_dY)
+- [Interpreting Human Genome](https://www.youtube.com/watch?v=Mph3GfDKM-o)
